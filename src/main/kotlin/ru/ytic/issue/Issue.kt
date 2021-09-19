@@ -1,8 +1,8 @@
-package ru.ytis.issue
+package ru.ytic.issue
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.databind.node.ArrayNode
-import ru.ytis.Project
+import ru.ytic.Project
 
 class Issue private constructor(
     private val project: Project,

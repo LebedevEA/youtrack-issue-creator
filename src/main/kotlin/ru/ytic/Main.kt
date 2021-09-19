@@ -1,6 +1,6 @@
-package ru.ytis
+package ru.ytic
 
-import ru.ytis.rest.IssueClient
+import ru.ytic.rest.IssueClient
 
 fun main() {
     try {

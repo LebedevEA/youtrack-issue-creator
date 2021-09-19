@@ -1,11 +1,11 @@
-package ru.ytis
+package ru.ytic
 
-import ru.ytis.issue.Assignee
-import ru.ytis.issue.Issue
-import ru.ytis.issue.IssueType
-import ru.ytis.issue.Priority
-import ru.ytis.rest.ProjectsClient
-import ru.ytis.rest.YouTrackServer
+import ru.ytic.issue.Assignee
+import ru.ytic.issue.Issue
+import ru.ytic.issue.IssueType
+import ru.ytic.issue.Priority
+import ru.ytic.rest.ProjectsClient
+import ru.ytic.rest.YouTrackServer
 import java.io.IOException
 
 object Cli {

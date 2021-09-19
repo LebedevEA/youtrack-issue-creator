@@ -1,4 +1,4 @@
-package ru.ytis.rest
+package ru.ytic.rest
 
 import java.net.URL
 

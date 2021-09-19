@@ -1,6 +1,4 @@
-package ru.ytis.issue
-
-import ru.ytis.Project
+package ru.ytic.issue
 
 class QodanaIssueDescription private constructor(
     private val language: String,

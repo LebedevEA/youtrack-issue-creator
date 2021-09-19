@@ -1,9 +1,9 @@
-package ru.ytis.rest
+package ru.ytic.rest
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import okhttp3.OkHttpClient
 import okhttp3.Request
-import ru.ytis.Project
+import ru.ytic.Project
 
 class ProjectsClient(private val youTrackServer: YouTrackServer) {
     private val client = OkHttpClient()

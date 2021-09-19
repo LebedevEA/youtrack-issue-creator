@@ -1,4 +1,4 @@
-package ru.ytis
+package ru.ytic
 
 import com.fasterxml.jackson.databind.JsonNode
 import com.fasterxml.jackson.databind.ObjectMapper

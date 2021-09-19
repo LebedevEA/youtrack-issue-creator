@@ -1,10 +1,10 @@
-package ru.ytis.rest
+package ru.ytic.rest
 
 import okhttp3.MediaType.Companion.toMediaType
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import okhttp3.RequestBody.Companion.toRequestBody
-import ru.ytis.issue.Issue
+import ru.ytic.issue.Issue
 
 class IssueClient(private val youTrackServer: YouTrackServer) {
     private val client = OkHttpClient()
